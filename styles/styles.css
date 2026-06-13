@@ -41,12 +41,14 @@
     gap: 32px;
     margin-top: 34px;
     font-size: 16px;
+    cursor: pointer;
     
 }
 
 .middle-navs li {
     list-style-type: none;
     color: #000000;
+    cursor: pointer;
 }
  
 .middle-navs li a {
@@ -272,7 +274,8 @@
     width: 700px;
     height: 20px;
     font-size: 16px;
-    font-weight: 400px;
+    line-height: 20px;
+    font-weight: 500px;
     color: #469165;
     margin-bottom: 16px;
 }
@@ -282,7 +285,7 @@
     font-size: 48px;
     font-weight: bold;
     color: #001931;
-    margin-bottom:16px ;
+    margin-bottom: 16px;
 }
 .solution .solution-container .solution-content p{
     width: 700px;
@@ -311,4 +314,39 @@
     height: 16.25px;
     margin-top: 3.5px 1.88px;
     padding-top: 3.5px;
+}
+.last {
+    width: 1360px;
+    max-width: 1600px;
+    height: 384px;
+    margin: 0px auto;
+    background-color:  #F7F6F2;
+    text-align: center;
+}
+
+.last .last-container .think {
+    padding-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.last .last-container p {
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+.last .last-container button{
+    width: 194px;
+    height: 52px;
+    border-radius: 4px;
+    background-color: #469165;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 550;
+    cursor: pointer;
+    margin-bottom: 16px;
+
 }

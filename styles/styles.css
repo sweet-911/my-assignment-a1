@@ -3,9 +3,6 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
-
-
 .open-sans {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -14,8 +11,6 @@
   font-variation-settings:
     "wdth" 100; */
 }
-  
-
 .header-container {
     width: 1600px;
     max-width: 1600px;
@@ -41,8 +36,7 @@
     gap: 32px;
     margin-top: 34px;
     font-size: 16px;
-    cursor: pointer;
-    
+    cursor: pointer;    
 }
 
 .middle-navs li {
@@ -50,13 +44,11 @@
     color: #000000;
     cursor: pointer;
 }
- 
 .middle-navs li a {
     font-size: 16px;
     color: #000000;
     text-decoration: none;
-    cursor: pointer;
-    
+    cursor: pointer;   
 }
 .header-container  .right-btn {
     margin-right: 130px;
@@ -79,8 +71,7 @@
     height: 674px;
     justify-content: center;
     padding: 115.5px 120px;
-    margin: 0px auto;
-    
+    margin: 0px auto;   
 }
     
 .main-container .mela-para li {
@@ -92,9 +83,7 @@
     font-size: 16px;
     font-weight: 600px;
     margin-bottom: 16px;
-    margin: 0px 565.5px;
-    
-    
+    margin: 0px 565.5px;   
 } 
 
 .main-container .big-text {
@@ -141,7 +130,7 @@
     font-size: 16px;
     border-radius: 4px;
     font-weight: 500px;
-    
+    cursor: pointer;   
 }
 .main-container .para-nav .para-list a {
     text-decoration: none;
@@ -161,8 +150,7 @@
     font-weight: 500px;
     border: 1px solid #FFFFFF;
     text-align: center;
-    
-    
+    cursor: pointer;   
 }
 
 .info-container .top-text {
@@ -256,7 +244,6 @@
     height: 600px;
     margin: 0px auto;
     margin-bottom: 120px;
-
 }
 
 .solution .solution-container {
@@ -306,8 +293,7 @@
     width: 700px;
     height: 20px;
     /* background-color: #30B868; */
-    padding-bottom: 3.5px;
-    
+    padding-bottom: 3.5px;   
 }
 .solution .solution-container .solution-content li img {
     width: 16.25px;
@@ -349,7 +335,6 @@
     font-weight: 550;
     cursor: pointer;
     margin-bottom: 16px;
-
 }
 .footer {
     width: 1600px;
@@ -365,9 +350,7 @@
      padding-top: 120px;
      padding-left: 120px;  
     justify-content: space-between;
-    margin-bottom: 120px;
-    
-    
+    margin-bottom: 120px;    
 }
 .footer .final-container .final-image {
     width: 139px;

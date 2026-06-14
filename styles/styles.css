@@ -322,6 +322,7 @@
     margin: 0px auto;
     background-color:  #F7F6F2;
     text-align: center;
+    margin-bottom: 120px;
 }
 
 .last .last-container .think {
@@ -349,4 +350,61 @@
     cursor: pointer;
     margin-bottom: 16px;
 
+}
+.footer {
+    width: 1600px;
+    max-width: 1600px;
+    height: 348px;
+    margin: 0px auto;
+    background-color: #001931;
+}
+.footer .final-container{
+    display: flex;
+    width: 1360px;
+    height: 64px;
+     padding-top: 120px;
+     padding-left: 120px;  
+    justify-content: space-between;
+    margin-bottom: 120px;
+    
+    
+}
+.footer .final-container .final-image {
+    width: 139px;
+    height: 60px;
+}
+.footer .final-container .social h3 {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 16px;
+}
+.footer .final-container a{
+    width: 92px;
+    height: 20px;
+    margin-right: 16px;
+}
+.footer .final-container .social .icons{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.footer hr{
+    width: 1360px;
+    margin: 0px auto;
+    border: 0px;
+    border-top: 1px solid #469165;
+    margin-bottom: 30px;
+}
+
+.footer .copyright {
+    color: #FAFAFA;
+    width: 1360px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0px auto;
+    text-align: center;
 }
